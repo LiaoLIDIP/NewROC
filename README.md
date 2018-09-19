@@ -16,6 +16,6 @@
 *Kumar R, Indrayan A. Receiver operating characteristic (ROC) curve for medical researchers[J]. Indian pediatrics, 2011, 48(4): 277-287.*
 
 ***
-```Auther: LIAO.L``` <br>
+```Auther:``` [```LIAO.L```](http://gispalab.uestc.edu.cn/studentNow/849.htm "Markdown") <br>
 [```IDIPLAB·UESCT```](http://gispalab.uestc.edu.cn "Markdown")
 ***
