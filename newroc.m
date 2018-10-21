@@ -16,7 +16,7 @@ function [auc, IoU, acc, se, sp, pr, MedNR]=newroc(groundtruth, detecResoult, th
 %       MedNR = median of normalized responses across the landmark positions
 %example:  
 %       threshold=0:0.01:1;
-%       groundtruth = imread('mannul.tif');
+%       groundtruth = imread('manual.tif');
 %       groundtruth = double(groundtruth)/255;
 %       detecResoult = imread('detec.png');
 %       detecResoult = double(detecResoult)/255;
