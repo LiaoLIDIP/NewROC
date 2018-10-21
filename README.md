@@ -4,7 +4,7 @@
 ***
 ## example:  
 >threshold=0:0.01:1;<br>
->groundtruth = imread('mannul.tif');<br>
+>groundtruth = imread('manual.tif');<br>
 >groundtruth = double(groundtruth)/255;<br>
 >detecResoult = imread('detec.png');<br>
 >detecResoult = double(detecResoult)/255;<br>
